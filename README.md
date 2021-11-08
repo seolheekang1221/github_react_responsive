@@ -1,2 +1,2 @@
-# github_react_responsive
-react responsive site
+# react_responsive
+react responsive web site
